@@ -8,10 +8,13 @@
 
 **Useful links:** [x402 protocol guide](https://mpp.best/x402) · [Protocol comparison](https://mpp.best/compare) · [AI agent payments](https://mpp.best/ai-agent-payments) · [Submit a project](https://mpp.best/submit)
 
+[![Awesome](https://awesome.re/badge.svg)](https://mpp.best)
 [![Website](https://img.shields.io/badge/directory-mpp.best-D97A5E)](https://mpp.best)
 [![Monitor](https://img.shields.io/badge/status-active-brightgreen)](https://mpp.best)
 ![Resources](https://img.shields.io/badge/resources-565-blue)
 ![GitHub Repos](https://img.shields.io/badge/GitHub_repos-371-orange)
+
+> ⭐ **Find this useful? [Star the repo](https://github.com/mpp-best/awesome_mpp) and [submit your project](https://mpp.best/submit)** — new projects are added continuously.
 
 ---
 
