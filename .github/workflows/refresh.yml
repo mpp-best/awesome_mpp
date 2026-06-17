@@ -1,0 +1,36 @@
+name: Refresh README
+
+on:
+  schedule:
+    # 03:00 UTC on the 1st of every month (≈ 11:00 Beijing time)
+    - cron: '0 3 1 * *'
+  workflow_dispatch: {}   # allows manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerate README from mpp.best data
+        run: node scripts/generate-readme.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "mpp-bot"
+          git config user.email "bot@mpp.best"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes — nothing to commit."
+          else
+            git commit -m "chore: monthly README refresh"
+            git push
+            echo "README updated."
+          fi
