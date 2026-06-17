@@ -8,14 +8,13 @@
 //  Run locally:   node scripts/generate-readme.mjs
 //  In CI:         see .github/workflows/refresh.yml (monthly + manual)
 //
-//  Data source (public): raw projects.json from the mpp.best repo.
+//  Data source (public): https://mpp.best/data/projects.json
 //  Override with LOCAL_JSON=/path/to/projects.json for offline testing.
 // ─────────────────────────────────────────────────────────────────────────
 
 import { writeFileSync, readFileSync } from 'node:fs';
 
-const DATA_URL =
-  'https://raw.githubusercontent.com/mpp-best/mpp.best/main/src/data/projects.json';
+const DATA_URL = 'https://mpp.best/data/projects.json';
 
 // Per-category cap keeps the list curated and readable.
 const PER_CATEGORY = 80;
