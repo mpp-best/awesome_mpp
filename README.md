@@ -201,6 +201,7 @@
 | [teckedd-code2save/agentmart](https://github.com/teckedd-code2save/agentmart) | ⭐1 | TypeScript | ⚡ Autonomous AI agent economy — agents hire agents, pay each other, and get work done. Built on MPP  |
 
 > +69 more in this category — [browse all on mpp.best](https://mpp.best).
+| [vbkotecha/agentservices-api](https://github.com/vbkotecha/agentservices-api) | ⭐0 | Python | Paid API marketplace for AI agents with x402 on-chain micropayments. 54 services, 97 endpoints, 37 MCP tools. Crypto market data, on-chain analytics, DeFi intelligence. |
 
 ## 🧩 MCP Payments
 
