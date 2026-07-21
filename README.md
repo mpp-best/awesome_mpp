@@ -111,6 +111,7 @@
 | [lopushok9/Agent-Layer](https://github.com/lopushok9/Agent-Layer) | ⭐22 | Python | A wallet for agents. Make payments via x402, use stablecoins, swap assets, earn yield with defi and  |
 | [nirholas/x402-deploy](https://github.com/nirholas/x402-deploy) | ⭐22 | TypeScript | Turn any API or MCP server into a paid service with x402 |
 | [mission69b/t2000](https://github.com/mission69b/t2000) | ⭐21 | TypeScript | Agentic finance infrastructure. |
+| [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) | ⭐0 | Python | 54 x402-paid data APIs for AI agents — crypto, forex, stocks, AI inference, news. 37 MCP tools. USDC on Base. |
 
 > +1057 more in this category — [browse all on mpp.best](https://mpp.best).
 
@@ -200,6 +201,7 @@
 | [teckedd-code2save/agentmart](https://github.com/teckedd-code2save/agentmart) | ⭐1 | TypeScript | ⚡ Autonomous AI agent economy — agents hire agents, pay each other, and get work done. Built on MPP  |
 
 > +69 more in this category — [browse all on mpp.best](https://mpp.best).
+| [vbkotecha/agentservices-api](https://github.com/vbkotecha/agentservices-api) | ⭐0 | Python | Paid API marketplace for AI agents with x402 on-chain micropayments. 54 services, 97 endpoints, 37 MCP tools. Crypto market data, on-chain analytics, DeFi intelligence. |
 
 ## 🧩 MCP Payments
 
