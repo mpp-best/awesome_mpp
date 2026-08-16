@@ -286,6 +286,7 @@
 | [npm:@ambosstech/lightning-mpp-sdk](https://www.npmjs.com/package/@ambosstech/lightning-mpp-sdk) | ⭐0 | — | Lightning Network payment method for Machine Payments Protocol (MPP) |
 | [npm:@goplausible/algorand-mpp-sdk](https://www.npmjs.com/package/@goplausible/algorand-mpp-sdk) | ⭐0 | — | Algorand payment method SDK for the MPP protocol |
 | [npm:@moldy/mega-mpp-sdk](https://www.npmjs.com/package/@moldy/mega-mpp-sdk) | ⭐0 | — | MegaETH payment method for the Machine Payments Protocol. |
+| [unicentrocucuta/pe-x402-gateway](https://github.com/unicentrocucuta/pe-x402-gateway) | ⭐0 | Python | Official Superintendencia Financiera daily USD/COP prepaid x402 GET $0.005. |
 
 ## 🏅 Add the badge
 
