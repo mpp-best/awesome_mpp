@@ -49,6 +49,7 @@
 | [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) | ⭐264 | Go | Publishes localhost services to the agentic web through self-hostable, trustless relays with x402 pa |
 | [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) | ⭐264 | — | 🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypt |
 | [qntx/x402-openai-python](https://github.com/qntx/x402-openai-python) | ⭐260 | Python | Drop-in OpenAI Python client with transparent x402 payment support. |
+| [PANDeveloper001/openai-agents-nano-x402](https://github.com/PANDeveloper001/openai-agents-nano-x402) | ⭐0 | Python | Fee-free, instant, self-custodied Nano (XNO) x402 payer for the OpenAI Agents SDK (thin feeless402 adapter). |
 | [second-state/x402-payment-link](https://github.com/second-state/x402-payment-link) | ⭐201 | HTML | No description. |
 | [daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents) | ⭐189 | TypeScript | Lucid Agents Commerce SDK. Bootstrap AI agents in 60 seconds that can pay, sell, and participate in  |
 | [dabit3/x402-starter-kit](https://github.com/dabit3/x402-starter-kit) | ⭐179 | TypeScript | No description. |
