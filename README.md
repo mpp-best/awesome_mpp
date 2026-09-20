@@ -42,6 +42,7 @@
 | [google-agentic-commerce/a2a-x402](https://github.com/google-agentic-commerce/a2a-x402) | ⭐541 | Python | The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling |
 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | ⭐506 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, B |
 | [ProwlFi/ProwlFi](https://github.com/ProwlFi/ProwlFi) | ⭐487 | TypeScript | The world's first privacy layer for AI agents on Solana — stealth addresses + x402 payments. Every p |
+| [PANDeveloper001/openai-agents-nano-x402](https://github.com/PANDeveloper001/openai-agents-nano-x402) | ⭐0 | Python | OpenAI Agents SDK x402 payment tool with Nano (XNO) exact-scheme support — feeless, instant settlement |
 | [BlockRunAI/blockrun-mcp](https://github.com/BlockRunAI/blockrun-mcp) | ⭐475 | TypeScript | Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 microp |
 | [Merit-Systems/x402scan](https://github.com/Merit-Systems/x402scan) | ⭐362 | TypeScript | x402 Ecosystem Explorer |
 | [moov-io/awesome-fintech](https://github.com/moov-io/awesome-fintech) | ⭐352 | — | A curated collection of open source fintech libraries and resources. |
