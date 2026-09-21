@@ -208,6 +208,7 @@
 | [remit-md/mcp](https://github.com/remit-md/mcp) | ⭐0 | TypeScript | DEPRECATED — Use pay CLI instead (cargo install pay-cli) |
 | [leigents/mpp-mcp](https://github.com/leigents/mpp-mcp) | ⭐0 | TypeScript | Turn your MCP server tools into paid endpoints using the Machine Payments Protocol |
 | [npm:@leigents/mcp](https://www.npmjs.com/package/@leigents/mcp) | ⭐0 | — | Turn your MCP server tools into paid endpoints using the Machine Payments Protocol |
+| [PANDeveloper001/vend](https://github.com/PANDeveloper001/vend) | ⭐0 | Python | Live paid MCP server + pay-per-call API merchant settled in Nano (XNO) x402 — instant, feeless, self-facilitated PAYMENT-SIGNATURE (extract, search, domain, geoip, nano-info, youtube-transcript) |
 
 ## 👛 Wallets & Keys
 
