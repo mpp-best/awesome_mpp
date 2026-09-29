@@ -48,6 +48,7 @@
 | [x402-rs/x402-rs](https://github.com/x402-rs/x402-rs) | ⭐280 | Rust | x402 payments in Rust: verify, settle, and monitor payments over HTTP 402 flows |
 | [gosuda/portal-tunnel](https://github.com/gosuda/portal-tunnel) | ⭐264 | Go | Publishes localhost services to the agentic web through self-hostable, trustless relays with x402 pa |
 | [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) | ⭐264 | — | 🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypt |
+| [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) | — | — | Paid research and chat APIs for AI agents, discovered free via x402 manifests and settled in USDC on Base. |
 | [qntx/x402-openai-python](https://github.com/qntx/x402-openai-python) | ⭐260 | Python | Drop-in OpenAI Python client with transparent x402 payment support. |
 | [second-state/x402-payment-link](https://github.com/second-state/x402-payment-link) | ⭐201 | HTML | No description. |
 | [daydreamsai/lucid-agents](https://github.com/daydreamsai/lucid-agents) | ⭐189 | TypeScript | Lucid Agents Commerce SDK. Bootstrap AI agents in 60 seconds that can pay, sell, and participate in  |
