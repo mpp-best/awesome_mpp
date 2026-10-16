@@ -111,6 +111,7 @@
 | [mission69b/t2000](https://github.com/mission69b/t2000) | ⭐23 | TypeScript | Agentic finance infrastructure. |
 | [Parad0x-Labs/openclaw-vault](https://github.com/Parad0x-Labs/openclaw-vault) | ⭐23 | Python | Encrypted vault, ZK settlement archiving, x402 payment receipts, Agent Passport binding, and Solana  |
 | [xgrain402/xgrain402-scan](https://github.com/xgrain402/xgrain402-scan) | ⭐23 | TypeScript | xgrain402-scan provides comprehensive insights into our growing BSC ecosystem |
+| [filip-study/x402-ping](https://github.com/filip-study/x402-ping) | ⭐0 | JavaScript | Live Base USDC x402 premium ping ($0.05 /premium) + free tip/unlock discovery. Worker: https://x402-ping.palmbeachpete.workers.dev |
 
 > +1079 more in this category — [browse all on mpp.best](https://mpp.best).
 
