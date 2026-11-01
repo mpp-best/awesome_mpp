@@ -11,7 +11,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://mpp.best)
 [![Website](https://img.shields.io/badge/directory-mpp.best-D97A5E)](https://mpp.best)
 ![Resources](https://img.shields.io/badge/curated_repos-1382-blue)
-![Updated](https://img.shields.io/badge/updated-2026-10-01-brightgreen)
+![Updated](https://img.shields.io/badge/updated-2026-11-01-brightgreen)
 
 > ⭐ **Find this useful? [Star the repo](https://github.com/mpp-best/awesome_mpp) and [submit your project](https://mpp.best/submit)** — the list refreshes automatically every month.
 
@@ -301,4 +301,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md), or simply [submit your project on mpp.be
 
 ---
 
-*1382 curated projects · auto-generated from [mpp.best](https://mpp.best) on 2026-10-01. Maintained by [mpp.best](https://mpp.best) — the AI payments & x402 directory.*
+*1382 curated projects · auto-generated from [mpp.best](https://mpp.best) on 2026-11-01. Maintained by [mpp.best](https://mpp.best) — the AI payments & x402 directory.*
