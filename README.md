@@ -27,6 +27,8 @@
 
 ---
 
+- [agent-fleet](https://agent-fleet-ppqpwu.camelai.app/mcp) - Iranian and Persian verification and data tools for agents: national code, bank card and Sheba (IBAN) checks, mobile number to operator and province, postal code, licence plate, passport MRZ check digits, Jalali and Hijri dates, RTL text safety. Hosted remote MCP at https://agent-fleet-ppqpwu.camelai.app/mcp with no key; 76 tools, 59 free; a priced call returns HTTP 402 in USDC on Solana or Base. [Repo](https://github.com/Elviro2658/agent-fleet-mcp)
+
 ## 🔌 x402 Protocol
 
 | Project | Stars | Language | Description |
