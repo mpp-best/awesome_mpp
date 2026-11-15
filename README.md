@@ -208,6 +208,7 @@
 | [remit-md/mcp](https://github.com/remit-md/mcp) | ⭐0 | TypeScript | DEPRECATED — Use pay CLI instead (cargo install pay-cli) |
 | [leigents/mpp-mcp](https://github.com/leigents/mpp-mcp) | ⭐0 | TypeScript | Turn your MCP server tools into paid endpoints using the Machine Payments Protocol |
 | [npm:@leigents/mcp](https://www.npmjs.com/package/@leigents/mcp) | ⭐0 | — | Turn your MCP server tools into paid endpoints using the Machine Payments Protocol |
+| [zambodotdev/zambo-mcp](https://github.com/zambodotdev/zambo-mcp) | ⭐0 | — | Remote MCP execution layer (120 tools, 17 products) with x402 USDC micropayments — $1.49 Day Pass via `zambo_pay` on Base |
 
 ## 👛 Wallets & Keys
 
