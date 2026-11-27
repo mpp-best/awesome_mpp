@@ -198,6 +198,7 @@
 | [agirails/n8n-nodes-actp](https://github.com/agirails/n8n-nodes-actp) | ⭐3 | TypeScript | n8n community node for AGIRAILS ACTP (Agent Commerce Transaction Protocol) - enables AI agent paymen |
 | [splitmerge420/aluminum-os](https://github.com/splitmerge420/aluminum-os) | ⭐3 | TypeScript | Aluminum OS — The AI-Native Operating System. Agent Control Plane, SHELDONBRAIN LLM Memory, MCP Gove |
 | [laundromatic/shopgraph](https://github.com/laundromatic/shopgraph) | ⭐3 | TypeScript | The extraction API that shows its work. Product data extraction with per-field confidence scoring an |
+| [GeminiGeorge22/fmf-tools](https://github.com/GeminiGeorge22/fmf-tools) | ⭐0 | HTML | Pay-per-call APIs for AI agents on Tempo mainnet (MPP) and Base (x402): embeddings, DNS, docs, research, and more — no API keys. |
 
 > +77 more in this category — [browse all on mpp.best](https://mpp.best).
 
